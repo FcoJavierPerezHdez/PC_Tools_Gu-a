@@ -22,10 +22,8 @@ WizTree es una aplicación que te permite analizar el uso del almacenamiento en 
    <br>
 2. Sigue las instrucciones en pantalla y selecciona la carpeta de instalación.
    ![Instalación de WizTree](imagenes/instalacionwiztree.png)<br><br>
-3. Después aparecerá una ventana que te aparecerá la posibilidad de crearte un acceso directo en el escritorio para tenerlo a mano, pues esta opción la marcamos.
-   ![foto ejecucion app](imagenes/instalacion.png)<br><br>
-4. Una vez finalizada la instalación, ejecuta WizTree.
-   ![foto ejecucion app](imagenes/ejecutarlaapp.png)<br><br>
+3. Después aparecerá una ventana que te aparecerá la posibilidad de crearte un acceso directo en el escritorio para tenerlo a mano, pues esta opción la marcamos.![foto ejecucion app](imagenes/instalacion.png)<br><br>
+4. Una vez finalizada la instalación, ejecuta WizTree.![foto ejecucion app](imagenes/ejecutarlaapp.png)<br><br>
 
 ---
 
