@@ -35,15 +35,15 @@ WizTree es una aplicación que te permite analizar el uso del almacenamiento en 
 
 1. Abre WizTree.<br><br>
 2. Una vez ejecutada la aplicación, en la parte superior izquierda tendremos que elegir qué disco o carpeta queremos examinar. En nuestro caso será el SSD principal de nuestro sistema [C:] Disco local.<br>![vista previa](imagenes/vistaprincipal.png)<br><br>
-3. Haz clic en el botón **"Analizar"** y espera a que el análisis termine.
-   ![vista previa](imagenes/foto.png)<br><br>
+3. Haz clic en el botón **"Analizar"** y espera a que el análisis termine.<br>
+![vista previa](imagenes/foto.png)<br><br>
 
 ### Paso 2: Saber interpretar los Resultados
 
 - **"Ver Archivo"**: Esta pestaña nos sirve a la hora de buscar una extensión de archivo/carpeta en específico para que sólo nos salgan esos resultados en específico para especificar su búsqueda. También nos da la posibilidad de no sólo la búsqueda en la que coincida la ruta completa sino que también pueden pertenecer los archivos a rutas distintas y al mantener el mismo nombre también nos los buscaría.
-  ![vista previa](imagenes/captura.png)<br><br>
+  ![vista previa](imagenes/captura.png)<br><br><br>
 - **"Ver Árbol"**: Permite navegar por las carpetas y ver su tamaño relativo. En este caso el usuario "javit" ocupa el 100% del espacio de la carpeta "Users" y vemos en qué carpetas se distribuye ese espacio de almacenamiento, como por ejemplo la carpeta de "VirtualBox VMs" ocupa 358,6 GB del espacio total.
-  ![vista previa](imagenes/capturaarbol.png)<br><br>
+  ![vista previa](imagenes/capturaarbol.png)<br><br><br>
 - **Mapa de Treemap**: Representa visualmente el uso del almacenamiento con colores y tamaños proporcionales. En este caso VirtualBox VMs se lleva la grán parte del espacio usado en el disco como podemos observar.
   ![vista previa](imagenes/capturasi.png)<br>
 
