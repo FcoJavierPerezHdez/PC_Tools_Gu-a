@@ -14,8 +14,8 @@ Prime95 es una herramienta utilizada para realizar pruebas de estrés en la CPU 
 
 1. Visita el sitio web oficial de Prime95: [https://www.mersenne.org/download/](https://www.mersenne.org/download/).
    <br>
-2. Descarga la versión correspondiente a tu sistema operativo (Windows, Linux o macOS). En nuestro caso elegiremos la version de Windows x64.
-![eleccion de version de prime95](imagenes/elegirversionprime95.png)
+2. Descarga la versión correspondiente a tu sistema operativo (Windows, Linux o macOS). En nuestro caso elegiremos la version de Windows x64.<br>
+   ![eleccion de version de prime95](imagenes/elegirversionprime95.png)
 
 ### Paso 2: Instalar Prime95
 
