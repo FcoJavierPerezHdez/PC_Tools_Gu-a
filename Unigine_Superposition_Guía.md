@@ -12,15 +12,16 @@ Unigine Superposition es una herramienta avanzada de benchmarking utilizada para
 
 ### Paso 1: Descargar Unigine Superposition
 
-1. Visita el sitio web oficial de Unigine Superposition: [https://benchmark.unigine.com/superposition](https://benchmark.unigine.com/superposition). <br><br>
-2. Descarga la versión gratuita o la de pago, según tus necesidades. En nuestro caso, descargaremos la versión gratuita.<br>
+1. Visita el sitio web oficial de Unigine Superposition:
+   <br>[https://benchmark.unigine.com/superposition](https://benchmark.unigine.com/superposition). <br><br>
+2. Descarga la versión gratuita o la de pago, según tus necesidades. En nuestro caso, descargaremos la versión gratuita.<br><br>
    ![instalar Unigine Superposition free download](imagenes/descargasuperposition.png)
 
 ### Paso 2: Instalar Unigine Superposition
 
 1. Abre el archivo descargado (`Superposition_Benchmark.exe`)<br><br>
 2. Sigue las instrucciones del asistente de instalación.<br><br>
-3. Una vez instalado, inicia la aplicación. Te deberá aparecer el siguiente menú:
+3. Una vez instalado, inicia la aplicación. Te deberá aparecer el siguiente menú:<br><br>
    ![instalar Unigine Superposition free download](imagenes/capturamenu.png)
 
 
